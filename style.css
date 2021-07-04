@@ -31,6 +31,7 @@ a{
 .btn{
     padding: 13px 40px;
     font-family: 'Nunito', sans-serif;
+    text-transform: uppercase;
     font-size: 20px;
     font-weight: 900;
     color: #fff;
@@ -41,6 +42,7 @@ a{
 .banner-wraper{
     background-image: url(image/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 130px;
 }
 .banner-wraper div{
     margin-left: 6%;
@@ -50,8 +52,28 @@ a{
     margin-bottom: 30px;
 }
 .banner-wraper div img{
-    width: 85%;
-    margin-top: 40px;
+    width: 100%;
+    margin-top: 20px;
 }
 
 /* banner part end here */
+
+
+/* dream part start here */
+.dream-wraper{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream-margin-1{
+    margin-left: 5%;
+    /* margin-right: 5%; */
+}
+.dream-margin-2{
+    margin-right: 7%;
+}
+.dream-wraper div img{
+    width: 90%;
+}
+
+/* dream part end here */
