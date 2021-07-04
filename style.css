@@ -87,6 +87,10 @@ a{
 .experiences{
     margin-bottom: 130px;
 }
+.experiences-wraper{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+}
 .experiences-wraper div{
     margin-left: 4%;
     margin-right: 4%;
